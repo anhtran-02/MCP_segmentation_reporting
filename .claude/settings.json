@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import sys; print\\(sys.version\\)\")",
+      "Bash(python -c \"from src.csv_reader import load_csv; print\\('CSV reader imports OK'\\)\")",
+      "Bash(python3)",
+      "Bash(.venv/bin/python -)",
+      "Bash(.venv/bin/python -c ' *)",
+      "Bash(.venv/bin/python src/report_builder.py --bu UTILITIES)",
+      "Bash(.venv/bin/python src/report_builder.py --bu TELCO)",
+      "Bash(.venv/bin/python -c \"import ast; ast.parse\\(open\\('src/server.py'\\).read\\(\\)\\); print\\('syntax OK'\\)\")",
+      "Bash(git -C /Users/anhtran/Documents/MOMO/segment-analysis-mcp status)"
+    ]
+  }
+}

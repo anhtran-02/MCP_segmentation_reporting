@@ -1,0 +1,9 @@
+bu_name,campaign_id,segment_name,operator_name,condition_name,condition_type,channel,goal,size_pool,month
+UTILITIES,CMP001,seg_a,thuy.nguyen19,user_blacklist_risk,CDP,promo,budget_coin_reward,8800000,2025-10-01
+UTILITIES,CMP001,seg_a,thuy.nguyen19,VTTI GROUP,BQ,promo,budget_coin_reward,8800000,2025-10-01
+UTILITIES,CMP002,seg_b,hieu.le11,user_active_in_range,CDP,journey,CONSIDERATION_CONV,4800000,2025-11-01
+UTILITIES,CMP003,seg_c,van.vo2,,BQ,noti,SURVEY,251000,2025-12-01
+TELCO,CMP004,seg_d,anh.luu,user_blacklist_risk,CDP,promo,acquisition,2100000,2025-10-01
+TELCO,CMP004,seg_d,anh.luu,TELCO BASE,BQ,promo,acquisition,2100000,2025-10-01
+TELCO,CMP005,seg_e,linh.duong6,user_provider_network,CDP,journey,retention,560000,2025-11-01
+TELCO,CMP006,seg_f,phuc.nguyen20,user_transaction_bu_group,CDP,ads,awareness,1300000,2025-12-01

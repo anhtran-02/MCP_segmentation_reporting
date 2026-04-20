@@ -1,0 +1,101 @@
+bu_name,campaign_id,segment_name,operator_name,condition_name,condition_type,channel,goal,size_pool,month
+Cinema,CIN_CAM_004,Active Moviegoers,EXCLUDE,user purchased cinema ticket,transaction,promotion,increase impressions,590264,2025-11
+Cinema,CIN_CAM_018,Weekend Viewers,EXCLUDE,user has no transaction in 30 days,retention,notification,increase ticket sales,397986,2025-12
+Cinema,CIN_CAM_008,Late Night Users,EXCLUDE,user login app,behavior,promotion,upsell snack combo,2290650,2026-02
+Cinema,CIN_CAM_008,Premium Seat Buyers,EXCLUDE,user purchased cinema ticket,transaction,notification,increase impressions,1777573,2026-01
+Cinema,CIN_CAM_009,High CTR Users,AND,user joined loyalty program,lifecycle,advertising,increase ticket sales,394004,2026-02
+Cinema,CIN_CAM_004,Dormant Users 30D,OR,user clicked banner ad,engagement,advertising,increase ticket sales,1931967,2026-03
+Cinema,CIN_CAM_004,Snack Combo Buyers,OR,user create a transaction,transaction,advertising,upsell snack combo,1521807,2026-03
+Cinema,CIN_CAM_007,Romance Movie Fans,AND,user login app,behavior,promotion,increase clicks,339671,2025-12
+Cinema,CIN_CAM_004,Family Ticket Buyers,OR,user purchased snack combo,transaction,advertising,increase impressions,1557651,2026-01
+Cinema,CIN_CAM_007,Action Movie Fans,OR,user paid via wallet balance,payment,notification,reactivate users,722807,2026-03
+Cinema,CIN_CAM_008,High CTR Users,OR,user has no transaction in 30 days,retention,advertising,upsell snack combo,2341016,2025-12
+Cinema,CIN_CAM_011,Users With Payment Success,AND,user viewed movie detail page,behavior,notification,increase clicks,1687607,2026-01
+Cinema,CIN_CAM_003,Voucher Hunters,EXCLUDE,user visited nearby cinema location page,location,advertising,increase impressions,2098927,2026-02
+Cinema,CIN_CAM_015,High CTR Users,OR,user clicked cinema notification,engagement,promotion,upsell snack combo,2359548,2026-03
+Cinema,CIN_CAM_009,Romance Movie Fans,EXCLUDE,user has no transaction in 30 days,retention,journey,increase clicks,924897,2025-12
+Cinema,CIN_CAM_017,Premium Seat Buyers,AND,user joined loyalty program,lifecycle,notification,increase ticket sales,646062,2025-12
+Cinema,CIN_CAM_014,New App Logins,AND,user has no transaction in 30 days,retention,journey,reactivate users,1968143,2026-03
+Cinema,CIN_CAM_009,Late Night Users,AND,user searched for cinema,behavior,notification,upsell snack combo,2257216,2026-01
+Cinema,CIN_CAM_011,Weekend Viewers,OR,user has no transaction in 30 days,retention,promotion,increase CTR,18611,2026-01
+Cinema,CIN_CAM_017,Students Near Cinema,AND,user opened app in weekend,behavior,notification,upsell snack combo,1256768,2026-03
+Cinema,CIN_CAM_020,Voucher Hunters,AND,user used promotion voucher,promotion,promotion,reactivate users,2229464,2025-11
+Cinema,CIN_CAM_020,Dormant Users 30D,OR,user login app,behavior,notification,increase clicks,1294807,2025-12
+Cinema,CIN_CAM_002,Voucher Hunters,EXCLUDE,user create a transaction,transaction,notification,upsell snack combo,2043391,2025-11
+Cinema,CIN_CAM_018,Students Near Cinema,AND,user clicked cinema notification,engagement,journey,reactivate users,697592,2026-01
+Cinema,CIN_CAM_017,Users With Payment Success,EXCLUDE,user has no transaction in 30 days,retention,promotion,reactivate users,848688,2026-01
+Cinema,CIN_CAM_013,Action Movie Fans,EXCLUDE,user used promotion voucher,promotion,journey,reactivate users,1898670,2025-11
+Cinema,CIN_CAM_008,Voucher Hunters,AND,user used promotion voucher,promotion,notification,reactivate users,2328315,2025-12
+Cinema,CIN_CAM_019,Voucher Hunters,AND,user create a transaction,transaction,notification,increase impressions,287697,2025-11
+Cinema,CIN_CAM_011,Weekend Viewers,EXCLUDE,user viewed movie detail page,behavior,advertising,upsell snack combo,2040975,2025-12
+Cinema,CIN_CAM_018,High CTR Users,EXCLUDE,user visited nearby cinema location page,location,journey,increase impressions,1988792,2026-02
+Cinema,CIN_CAM_007,Weekend Viewers,AND,user searched for cinema,behavior,journey,increase clicks,1781617,2026-02
+Cinema,CIN_CAM_015,Users With Payment Success,EXCLUDE,user login app,behavior,notification,increase ticket sales,1693716,2026-01
+Cinema,CIN_CAM_004,Voucher Hunters,AND,user viewed movie detail page,behavior,journey,increase impressions,1774499,2025-12
+Cinema,CIN_CAM_009,Premium Seat Buyers,AND,user watched trailer,engagement,notification,increase CTR,2313231,2025-11
+Cinema,CIN_CAM_002,Action Movie Fans,EXCLUDE,user watched trailer,engagement,notification,increase ticket sales,996447,2025-12
+Cinema,CIN_CAM_014,Premium Seat Buyers,OR,user viewed movie detail page,behavior,journey,increase ticket sales,695538,2026-02
+Cinema,CIN_CAM_001,Family Ticket Buyers,OR,user visited nearby cinema location page,location,journey,increase clicks,1779221,2026-03
+Cinema,CIN_CAM_016,High CTR Users,AND,user purchased cinema ticket,transaction,promotion,increase ticket sales,2434258,2026-03
+Cinema,CIN_CAM_002,Romance Movie Fans,OR,user login app,behavior,notification,reactivate users,2004795,2026-03
+Cinema,CIN_CAM_017,High CTR Users,AND,user opened app in weekend,behavior,notification,increase impressions,292399,2026-03
+Cinema,CIN_CAM_003,Action Movie Fans,AND,user has no transaction in 30 days,retention,notification,reactivate users,1037702,2026-03
+Cinema,CIN_CAM_020,Active Moviegoers,EXCLUDE,user create a transaction,transaction,journey,upsell snack combo,2453099,2026-03
+Cinema,CIN_CAM_017,Dormant Users 30D,OR,user viewed movie detail page,behavior,advertising,increase impressions,1119068,2026-02
+Cinema,CIN_CAM_005,Action Movie Fans,EXCLUDE,user purchased cinema ticket,transaction,journey,increase clicks,309267,2025-11
+Cinema,CIN_CAM_015,New App Logins,EXCLUDE,user create a transaction,transaction,notification,reactivate users,899033,2026-03
+Cinema,CIN_CAM_009,High CTR Users,OR,user visited nearby cinema location page,location,notification,increase impressions,1554908,2026-01
+Cinema,CIN_CAM_006,Premium Seat Buyers,EXCLUDE,user paid via wallet balance,payment,advertising,reactivate users,2223538,2025-11
+Cinema,CIN_CAM_018,Recent Transactors,EXCLUDE,user create a transaction,transaction,promotion,increase clicks,489142,2025-11
+Cinema,CIN_CAM_018,High CTR Users,OR,user purchased cinema ticket,transaction,promotion,upsell snack combo,1443144,2025-12
+Cinema,CIN_CAM_009,Late Night Users,OR,user purchased cinema ticket,transaction,notification,increase ticket sales,1781605,2026-01
+Cinema,CIN_CAM_002,Active Moviegoers,OR,user joined loyalty program,lifecycle,promotion,upsell snack combo,1103720,2025-12
+Cinema,CIN_CAM_015,Late Night Users,EXCLUDE,user has no transaction in 30 days,retention,notification,increase ticket sales,320595,2025-12
+Cinema,CIN_CAM_018,Active Moviegoers,OR,user clicked banner ad,engagement,promotion,increase CTR,539545,2025-11
+Cinema,CIN_CAM_010,Dormant Users 30D,AND,user visited nearby cinema location page,location,advertising,increase impressions,1051603,2025-11
+Cinema,CIN_CAM_012,Students Near Cinema,EXCLUDE,user visited nearby cinema location page,location,journey,reactivate users,653243,2025-12
+Cinema,CIN_CAM_006,Students Near Cinema,AND,user visited nearby cinema location page,location,journey,increase ticket sales,757293,2026-01
+Cinema,CIN_CAM_014,Students Near Cinema,EXCLUDE,user watched trailer,engagement,promotion,increase clicks,672724,2025-11
+Cinema,CIN_CAM_013,Users With Payment Success,AND,user watched trailer,engagement,journey,increase impressions,842069,2026-02
+Cinema,CIN_CAM_012,Recent Transactors,AND,user viewed movie detail page,behavior,notification,upsell snack combo,815045,2026-02
+Cinema,CIN_CAM_011,Recent Transactors,AND,user joined loyalty program,lifecycle,advertising,increase clicks,2141602,2026-02
+Cinema,CIN_CAM_018,Dormant Users 30D,AND,user create a transaction,transaction,advertising,increase impressions,2440169,2026-01
+Cinema,CIN_CAM_002,Weekend Viewers,EXCLUDE,user has no transaction in 30 days,retention,advertising,upsell snack combo,1320658,2026-02
+Cinema,CIN_CAM_020,Late Night Users,AND,user has no transaction in 30 days,retention,promotion,increase clicks,191170,2026-02
+Cinema,CIN_CAM_001,Late Night Users,EXCLUDE,user searched for cinema,behavior,promotion,increase clicks,1813992,2025-11
+Cinema,CIN_CAM_011,New App Logins,OR,user searched for cinema,behavior,notification,upsell snack combo,1264642,2026-03
+Cinema,CIN_CAM_010,Action Movie Fans,OR,user used promotion voucher,promotion,journey,upsell snack combo,1245067,2026-03
+Cinema,CIN_CAM_005,Voucher Hunters,OR,user searched for cinema,behavior,journey,upsell snack combo,734923,2026-03
+Cinema,CIN_CAM_019,Recent Transactors,OR,user opened app in weekend,behavior,notification,increase clicks,1208403,2025-12
+Cinema,CIN_CAM_014,Students Near Cinema,EXCLUDE,user clicked banner ad,engagement,advertising,increase CTR,1857984,2026-02
+Cinema,CIN_CAM_007,Late Night Users,OR,user joined loyalty program,lifecycle,promotion,upsell snack combo,360658,2026-01
+Cinema,CIN_CAM_017,Action Movie Fans,EXCLUDE,user clicked banner ad,engagement,advertising,increase ticket sales,990110,2026-01
+Cinema,CIN_CAM_008,Students Near Cinema,AND,user clicked cinema notification,engagement,notification,increase ticket sales,1031944,2026-02
+Cinema,CIN_CAM_020,Users With Payment Success,AND,user purchased snack combo,transaction,journey,upsell snack combo,2419538,2025-12
+Cinema,CIN_CAM_013,Premium Seat Buyers,OR,user viewed movie detail page,behavior,promotion,upsell snack combo,28256,2025-11
+Cinema,CIN_CAM_014,Voucher Hunters,AND,user joined loyalty program,lifecycle,journey,increase ticket sales,2342929,2025-12
+Cinema,CIN_CAM_004,Premium Seat Buyers,AND,user joined loyalty program,lifecycle,journey,upsell snack combo,2232728,2026-03
+Cinema,CIN_CAM_020,Dormant Users 30D,OR,user clicked banner ad,engagement,journey,reactivate users,1875297,2025-12
+Cinema,CIN_CAM_016,Premium Seat Buyers,OR,user joined loyalty program,lifecycle,promotion,upsell snack combo,1168128,2026-03
+Cinema,CIN_CAM_016,Action Movie Fans,AND,user purchased cinema ticket,transaction,journey,increase ticket sales,1203430,2025-12
+Cinema,CIN_CAM_009,Dormant Users 30D,OR,user visited nearby cinema location page,location,notification,increase impressions,637629,2025-12
+Cinema,CIN_CAM_013,Romance Movie Fans,AND,user paid via wallet balance,payment,promotion,increase ticket sales,1745082,2026-02
+Cinema,CIN_CAM_011,Late Night Users,OR,user has no transaction in 30 days,retention,notification,increase impressions,1767209,2026-02
+Cinema,CIN_CAM_019,Romance Movie Fans,AND,user watched trailer,engagement,journey,increase CTR,29729,2026-01
+Cinema,CIN_CAM_010,Students Near Cinema,OR,user watched trailer,engagement,journey,reactivate users,2295644,2026-03
+Cinema,CIN_CAM_008,Premium Seat Buyers,AND,user purchased cinema ticket,transaction,journey,increase CTR,126738,2026-02
+Cinema,CIN_CAM_011,Action Movie Fans,EXCLUDE,user joined loyalty program,lifecycle,journey,upsell snack combo,697247,2026-02
+Cinema,CIN_CAM_005,New App Logins,EXCLUDE,user login app,behavior,journey,reactivate users,2372231,2025-11
+Cinema,CIN_CAM_003,Action Movie Fans,OR,user clicked cinema notification,engagement,journey,increase impressions,215909,2026-01
+Cinema,CIN_CAM_013,Dormant Users 30D,AND,user purchased snack combo,transaction,advertising,increase clicks,1595170,2026-01
+Cinema,CIN_CAM_014,Recent Transactors,AND,user purchased snack combo,transaction,notification,upsell snack combo,2267487,2025-11
+Cinema,CIN_CAM_012,Voucher Hunters,EXCLUDE,user create a transaction,transaction,notification,increase ticket sales,1042181,2025-12
+Cinema,CIN_CAM_001,New App Logins,AND,user viewed movie detail page,behavior,promotion,increase CTR,484784,2026-03
+Cinema,CIN_CAM_007,Premium Seat Buyers,EXCLUDE,user purchased cinema ticket,transaction,advertising,increase impressions,485385,2025-12
+Cinema,CIN_CAM_010,Weekend Viewers,EXCLUDE,user login app,behavior,advertising,reactivate users,1579151,2026-02
+Cinema,CIN_CAM_007,Weekend Viewers,EXCLUDE,user paid via wallet balance,payment,promotion,increase ticket sales,1269929,2026-03
+Cinema,CIN_CAM_004,Students Near Cinema,EXCLUDE,user joined loyalty program,lifecycle,notification,increase clicks,2239495,2026-02
+Cinema,CIN_CAM_012,Weekend Viewers,EXCLUDE,user searched for cinema,behavior,advertising,increase ticket sales,1766854,2026-02
+Cinema,CIN_CAM_004,Family Ticket Buyers,OR,user searched for cinema,behavior,journey,upsell snack combo,646691,2026-02
+Cinema,CIN_CAM_006,Romance Movie Fans,EXCLUDE,user searched for cinema,behavior,advertising,reactivate users,2262260,2026-02
+Cinema,CIN_CAM_015,Family Ticket Buyers,EXCLUDE,user clicked banner ad,engagement,advertising,increase clicks,1034681,2025-11
