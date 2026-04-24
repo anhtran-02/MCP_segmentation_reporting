@@ -9,7 +9,20 @@
       "Bash(.venv/bin/python src/report_builder.py --bu UTILITIES)",
       "Bash(.venv/bin/python src/report_builder.py --bu TELCO)",
       "Bash(.venv/bin/python -c \"import ast; ast.parse\\(open\\('src/server.py'\\).read\\(\\)\\); print\\('syntax OK'\\)\")",
-      "Bash(git -C /Users/anhtran/Documents/MOMO/segment-analysis-mcp status)"
+      "Bash(git -C /Users/anhtran/Documents/MOMO/segment-analysis-mcp status)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(rm -rf ~/.claude/skills/frontend-slides)",
+      "Bash(git clone *)",
+      "Bash(git -C ~/.claude/skills/frontend-slides log --oneline -3)",
+      "Bash(git submodule *)",
+      "Bash(git rm *)",
+      "Bash(git add *)",
+      "Bash(git diff *)",
+      "Bash(git update-index *)"
+    ],
+    "additionalDirectories": [
+      "/Users/anhtran/.claude"
     ]
   }
 }
