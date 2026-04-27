@@ -1,6 +1,7 @@
-name: BU-segmentation report
+---
+name: BU-segmentation-report
 definition: define functions for calling report for each BU
-----------------------
+---
 Rule:
 - If there is any error when calling the mcp, return error reason and print to user.
 

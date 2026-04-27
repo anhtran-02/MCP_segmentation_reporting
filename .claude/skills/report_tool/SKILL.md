@@ -1,13 +1,14 @@
-name: report_content
+---
+name: report-content
 description: call these function to get data, query and get metrics to generate reports.
---------
+---
 
 
 
 def team_over_view():
     # 1. metrics:
     - total campaign, total segment, total creators campaign, average condition per segment
-
+s
     2. dimension
     - overall across the timerange (e.g. quarter 1.2026)
     - break by channel
