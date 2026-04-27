@@ -14,7 +14,6 @@ tags: [index, mcp, segmentation]
 | File | Purpose |
 |------|---------|
 | [[CLAUDE.md]] | Master context — auto-loaded by Claude Code every session |
-| [[MCP_KNOWLEDGE_BASE]] | How MCP works, tool routing, prompts vs skills reference |
 | [[readme]] | Project overview and setup |
 
 ---

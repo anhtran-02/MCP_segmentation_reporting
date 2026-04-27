@@ -2,7 +2,7 @@
 
 MoMo CDP marketing segmentation analysis platform. Analyzes user/merchant segments, CDP attributes, lookalike performance, and live segment tracking for internal BU teams.
 
-MCP server: `bu-report-mcp/` | Full MCP reference: `MCP_KNOWLEDGE_BASE.md`
+MCP server: `bu-report-mcp/`
 
 ---
 
@@ -59,7 +59,7 @@ Full schema + all metric definitions → `.claude/skills/data-catalog/SKILL.md`
 
 **Prompts:** `analyze_bu` · `executive_summary` · `compare_bus` · `analyze_all_bus` · `generate_all_reports`
 
-Routing rules for business users → Section 9 of `MCP_KNOWLEDGE_BASE.md`
+Routing rules for business users → see Skill Routing table above
 
 ---
 
