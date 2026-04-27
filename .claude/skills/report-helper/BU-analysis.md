@@ -1,7 +1,14 @@
 ---
 name: BU-segmentation-report
 definition: define functions for calling report for each BU
+see-also:
+  - ../SKILL
+  - ../data-catalog/SKILL
+  - ../report_tool/SKILL
 ---
+
+> Related: [[../SKILL|mkt-segment-report]] · [[../data-catalog/SKILL|data-catalog]] · [[../report_tool/SKILL|report_tool]]
+
 Rule:
 - If there is any error when calling the mcp, return error reason and print to user.
 

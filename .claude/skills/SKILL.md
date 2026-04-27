@@ -2,8 +2,13 @@
 name: mkt-segment-report
 description: Use when user want to trigger a report about segmentation
 user-invocable: true
+see-also:
+  - data-catalog/SKILL
+  - report_tool/SKILL
+  - report-helper/BU-analysis
 ---
 
+> Related: [[data-catalog/SKILL]] · [[report_tool/SKILL]] · [[report-helper/BU-analysis]]
 
 # Phase 1: Context discovery
 **User must provide:**
@@ -13,7 +18,7 @@ user-invocable: true
 
 **Claude will infer**:
 - Table tier: DM_(dimension)
-- Go to the [[data_catalog/skill.md]] to get data catalog and related data tables to query.
+- Read [[data-catalog/SKILL]] for schema, table names, and metric definitions.
 
 **Claude will ask if missing**
 - Cần segment usage hay live segment (rebuild segment?)

@@ -2,7 +2,13 @@
 name: segment-data-catalog
 description: MKT Segmentation & CDP analysis — segment performance, attribute usage, lookalike performance, live segment tracking, user/merchant profiling
 user-invocable: false
+see-also:
+  - ../SKILL
+  - ../report_tool/SKILL
+  - ../report-helper/BU-analysis
 ---
+
+> Related: [[SKILL|mkt-segment-report]] · [[../report_tool/SKILL|report_tool]] · [[../report-helper/BU-analysis|BU-analysis]]
 
 # I. Metric Definition:
 | Metric | Định nghĩa | 

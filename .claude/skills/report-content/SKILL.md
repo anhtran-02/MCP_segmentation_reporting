@@ -1,7 +1,13 @@
 ---
 name: report-content
 description: call these function to get data, query and get metrics to generate reports.
+see-also:
+  - ../SKILL
+  - ../data-catalog/SKILL
+  - ../report-helper/BU-analysis
 ---
+
+> Related: [[../SKILL|mkt-segment-report]] · [[../data-catalog/SKILL|data-catalog]] · [[../report-helper/BU-analysis|BU-analysis]]
 
 
 

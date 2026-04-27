@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "trashOption": "local",
+  "useMarkdownLinks": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "assets",
+  "showFrontmatter": true,
+  "defaultViewMode": "preview",
+  "livePreview": true
+}
