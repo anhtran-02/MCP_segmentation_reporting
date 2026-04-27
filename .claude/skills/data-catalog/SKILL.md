@@ -140,4 +140,3 @@ Use table:
 
 * Format show:
 - When show information, done show id, show the segment_name, attribute_name_id, condition_name so that easy to read.
-- 
