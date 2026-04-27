@@ -132,9 +132,9 @@ Campaign status logic:
   FINISHED / COMPLETED → có data (campaign đã setup và chạy)
   Các status khác      → chưa có data (campaign chưa chạy)
 
-## Segmentation Campaign performance:
+## 8. Segmentation Campaign performance:
 Metrics: Impression, Click, CTR
-Use table: 
+Use table:  
 
 
 
